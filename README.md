@@ -19,7 +19,7 @@ cd kodluyoruzilkrepo
 code .
 ```
 ## Contributing
-Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+Videolar kimi zaman başka eğitimlerden derlendiği için içeriği eğitim videoları ile eş zamanlı uygularken takip konusunda sıkıntı çektim. Bir süre project1 dosyasının nasıl oluştuğunu farkedemedim. Kodluyoruz kanalının Visual Studio Code ve Front-End eğitimleri bu eğitime yardımcı kaynaklar olarak belirtilebilir. Bunun dışında çok yararlı bir eğitim olduğunu düşünüyorum. Eğitimde emeği geçen herkese teşekkürler. 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
